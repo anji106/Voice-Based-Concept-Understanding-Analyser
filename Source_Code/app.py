@@ -1,11 +1,6 @@
 # ==========================================================
 # Voice-Based Concept Understanding Analyser
 # Main Application
-#
-# Developed by:
-# T A Karthik
-# B.Tech CSE (AI & ML)
-# Mohan Babu University
 # ==========================================================
 
 # ==========================================================
